@@ -271,10 +271,8 @@ postcss@^8.4.16:
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
 
-renin@*:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/renin/-/renin-2.2.0.tgz#4411cc5204174f311253d40a4c1b8d382a4655b2"
-  integrity sha512-m4WsrtP3+/TNJRo1jw/eVcGrNbjKrFIkbMHDQ83ZW09v3bnUpob63JcXkf29J5HE32RIJ7lF2LNYN0vpQyBzBw==
+"renin@file:../renin/renin":
+  version "2.3.0"
 
 resolve@^1.22.1:
   version "1.22.1"
@@ -307,10 +305,10 @@ three@*:
   resolved "https://registry.yarnpkg.com/three/-/three-0.145.0.tgz#a613d71e75effc2aed88be630027ca01e2b6502e"
   integrity sha512-EKoHQEtEJ4CB6b2BGMBgLZrfwLjXcSUfoI/MiIXUuRpeYsfK5aPWbYhdtIVWOH+x6X0TouldHKHBuc/LAiFzAw==
 
-typescript@^4.7.3:
-  version "4.8.4"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.8.4.tgz#c464abca159669597be5f96b8943500b238e60e6"
-  integrity sha512-QCh+85mCy+h0IGff8r5XWzOVSbBO+KfeYrMQh7NJ58QujwcE22u+NUSmUxqF+un70P9GXKxa2HCNiTTMJknyjQ==
+typescript@*:
+  version "5.1.6"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.1.6.tgz#02f8ac202b6dad2c0dd5e0913745b47a37998274"
+  integrity sha512-zaWCozRZ6DLEWAWFrVDz1H6FVXzUSfTy5FUMWsQlU8Ym5JP9eO4xkTIROFCQvhQf61z6O/G6ugw3SgAnvvm+HA==
 
 vite-plugin-string@*:
   version "1.1.2"
